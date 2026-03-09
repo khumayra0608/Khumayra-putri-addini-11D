@@ -56,13 +56,14 @@
         document.getElementById("hapusSemua").addEventListener("click", function() {
             const konfirmasi = confirm("Apakah Anda Yakin ingin menghapus semua testimoni?");
             if (konfirmasi) {
-                localStorage.removeItem(testimoniList) ;
+                localStorage.removeItem("testimoniList") ;
                 location.reload();
             }
         });
 </script>
 </body>
 </html>
+
 
 
 
