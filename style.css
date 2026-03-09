@@ -152,12 +152,12 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #ffc0cb; /* background pink */
+  background-color: #ffc0cb;
   color: #333;
 }
 
 header {
-  background-color: #ff69b4; /* header pink lebih gelap */
+  background-color: #ff69b4; 
   color: white;
   padding: 20px 0;
   text-align: center;
@@ -203,14 +203,14 @@ p {
 }
 
 .kontak-link:hover {
-  color: #c71585; /* link hover lebih gelap */
+  color: #c71585; 
 }
 
 footer {
   text-align: center;
   margin-top: 50px;
   padding: 20px 0;
-  background-color: #ffe4e1; /* footer pink muda */
+  background-color: #ffe4e1;
   color: #555;
   font-size: 14px;
 }
@@ -223,7 +223,7 @@ footer {
 }
 
 .event-item h2 {
-  color: #d6336c; /* pink gelap untuk judul event */
+  color: #d6336c; 
   margin-bottom: 10px;
 }
 
@@ -238,3 +238,4 @@ footer {
   line-height: 1.5;
   color: #333;
 }
+
