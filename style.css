@@ -214,3 +214,27 @@ footer {
   color: #555;
   font-size: 14px;
 }
+.event-item {
+  background-color: white;
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.event-item h2 {
+  color: #d6336c; /* pink gelap untuk judul event */
+  margin-bottom: 10px;
+}
+
+.event-item .tanggal {
+  font-weight: bold;
+  color: #ff69b4;
+  margin-bottom: 10px;
+}
+
+.event-item .deskripsi {
+  font-size: 15px;
+  line-height: 1.5;
+  color: #333;
+}
