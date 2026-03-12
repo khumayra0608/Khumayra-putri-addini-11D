@@ -261,8 +261,14 @@ nav a {
   font-weight: bold;
   transition: 0.3s;
 }
+header img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+}
 
 nav a:hover {
   background-color: #d6336c;    
   color: white;             
 }
+
