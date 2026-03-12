@@ -261,9 +261,9 @@ nav a:hover {
 }
 
 header{
-    width: 100%;
-    height: 250px;
-    overflow: hidden;
+  width: 100%;
+  height: 250px;
+  overflow: hidden;
 }
 
 header img{
@@ -272,6 +272,5 @@ header img{
   object-fit: cover;
   display: block;
 }
-
 
 
